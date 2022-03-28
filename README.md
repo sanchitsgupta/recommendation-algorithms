@@ -36,8 +36,8 @@ Implementation of some algorithms used in [Recommender Systems](https://www.wiki
 
 | Algorithm     | RMSE  | Precision on top 100 (%) | Spearman Rank Correlation (%) |
 | ------------- |:-------------:|:--------:|:-----:|
-| Collaborative Filtering | 0.00574 | 99.24713 | 99.99999 |
-| Collaborative Filtering with Baseline Approach | 0.00594 | 99.12928 | 99.99999 |
+| Collaborative Filtering | 0.005736 | 99.24713 | 99.99999 |
+| Collaborative Filtering with Baseline Approach | 0.005937 | 99.12928 | 99.99999 |
 | SVD | 0.002870 | **99.04599** | 99.99999 |
 | SVD with 90% energy | **0.002867** | 99.01968 | 99.99999 |
 | CUR | 0.002943 | 98.47204 | 99.99999 |
